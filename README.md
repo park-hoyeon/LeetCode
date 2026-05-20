@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/park-hoyeon/LeetCode/tree/master/0542-01-matrix) |
 | [0743-network-delay-time](https://github.com/park-hoyeon/LeetCode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/park-hoyeon/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/park-hoyeon/LeetCode/tree/master/0542-01-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/park-hoyeon/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/park-hoyeon/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -61,5 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/park-hoyeon/LeetCode/tree/master/0542-01-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/park-hoyeon/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/park-hoyeon/LeetCode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
