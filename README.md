@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/park-hoyeon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/park-hoyeon/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/park-hoyeon/LeetCode/tree/master/0743-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/park-hoyeon/LeetCode/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/park-hoyeon/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/park-hoyeon/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/park-hoyeon/LeetCode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/park-hoyeon/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/park-hoyeon/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/park-hoyeon/LeetCode/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/park-hoyeon/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1514-path-with-maximum-probability](https://github.com/park-hoyeon/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/park-hoyeon/LeetCode/tree/master/1631-path-with-minimum-effort) |
