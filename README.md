@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/park-hoyeon/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/park-hoyeon/LeetCode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/park-hoyeon/LeetCode/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/park-hoyeon/LeetCode/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/park-hoyeon/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/park-hoyeon/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/park-hoyeon/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/park-hoyeon/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/park-hoyeon/LeetCode/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/park-hoyeon/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/park-hoyeon/LeetCode/tree/master/0389-find-the-difference) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/park-hoyeon/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/park-hoyeon/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
